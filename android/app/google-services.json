@@ -124,6 +124,50 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:39564882938:android:3ab3efedb8c22ed128ea43",
+        "android_client_info": {
+          "package_name": "com.example.data_app_for_mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39564882938-m64kuj1mojucuacj67v0uq6tkjg8kc1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.data_app_for_mess",
+            "certificate_hash": "ab361f96ca21857772cdf2bfee9398a8c47d9f95"
+          }
+        },
+        {
+          "client_id": "39564882938-lk0b6qgre800jtklbdf2ehna99rqhvkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbz0j9GlULwEGNQ0Sy3cJHisnPbQzHSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39564882938-lk0b6qgre800jtklbdf2ehna99rqhvkh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39564882938-4beqjv0uqv1bumq9def8avrj0p5kg6di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lostfound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:39564882938:android:cb1f2a1620879c0028ea43",
         "android_client_info": {
           "package_name": "com.example.firebase"
@@ -214,7 +258,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:39564882938:android:ac238b7074cc2a3a28ea43",
         "android_client_info": {
-          "package_name": "com.pixelflutter.bitebytegu"
+          "package_name": "com.example.mess_cu"
         }
       },
       "oauth_client": [
@@ -222,7 +266,7 @@
           "client_id": "39564882938-6q6kpf60fgotn9q7tviu9gdhpsegcaki.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.pixelflutter.bitebytegu",
+            "package_name": "com.example.mess_cu",
             "certificate_hash": "ab361f96ca21857772cdf2bfee9398a8c47d9f95"
           }
         },
