@@ -269,7 +269,7 @@ class _addMenuState extends State<addMenu> {
 
                 if (!foodList.contains(foodCtrl.text)){
                   setState(() {
-                    foodList.add(foodCtrl.text.replaceAll(" ", "").toLowerCase());
+                    foodList.add(foodCtrl.text.replaceAll("  ", " "));
                     foodCtrl.clear();
                   });
                 }
